@@ -6,4 +6,4 @@ route.post('/addtodo', addTodo);
 route.get('/gettodo', getTodo);
 route.put('/updatetodo/:id', updateTodo);
 route.delete('/deletetodo/:id', deleteTodo);
-export default route
+export default route;
